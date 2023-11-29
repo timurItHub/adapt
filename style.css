@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #f8f8f8;
+    text-align: center;
+    padding: 20px;
+}
+
+main {
+    margin: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+@media screen and (max-width: 600px) {
+    main {
+        margin: 10px;
+    }
+}
